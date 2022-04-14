@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MattZatt
 - 👀 I’m interested in ... Developing my skill
-- 🌱 I’m currently learning ... SQL Database Administration, C#, AWS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... SQL Database Administration, C#, AWS, .net
+- 💞️ I’m looking to collaborate on ... Anything that will build experience
 - 📫 How to reach me ... matthewryan1997@gmail.com
 
 <!---
