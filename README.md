@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MattZatt
 - 👀 I’m interested in ... Developing my skill
-- 🌱 I’m currently learning ... SQL Database Administration, C#, AWS, .net
+- 🌱 I’m currently learning ... networking, powershell/bash scripting, active directory
 - 💞️ I’m looking to collaborate on ... Anything that will build experience
-- 📫 How to reach me ... matthewryan1997@gmail.com
+- 📫 How to reach me ... maztacmatt@outlook.com
 
 <!---
 MattZatt/MattZatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
